@@ -38,7 +38,7 @@ cd SecureSwift
 [socks]
 client = yes
 accept = 127.0.0.1:1088
-connect = 192.168.0.122:59485
+connect = 192.168.0.122:60021
 cert = cert.pem
 key = key.pem
 CAfile = cert.pem
